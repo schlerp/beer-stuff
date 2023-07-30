@@ -20,5 +20,5 @@ poetry install
 ### start jupyter lab
 
 ```bash
-jupyter lab
+poetry run jupyter lab
 ```
